@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha",
     "lint": "eslint .",
-    "scripts": "npm run lint && npm test"
+    "ci": "npm run lint && npm test"
   },
   "repository": "alefteris/greece-vehicle-plate",
   "keywords": [
