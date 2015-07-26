@@ -1,0 +1,30 @@
+{
+  "name": "greece-vehicle-plate",
+  "version": "1.0.0",
+  "description": "Check that a vehicle registration plate number used in Greece is valid",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint .",
+    "scripts": "npm run lint && npm test"
+  },
+  "repository": "alefteris/greece-vehicle-plate",
+  "keywords": [
+    "greece",
+    "license",
+    "registration",
+    "number",
+    "tag",
+    "number",
+    "validate",
+    "car"
+  ],
+  "author": "Thanos Lefteris <alefteris@gmail.com> (http://thanoslefteris.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "3.2.0",
+    "eslint": "0.24.1",
+    "eslint-config-rigorous": "alefteris/eslint-config-rigorous",
+    "mocha": "2.2.5"
+  }
+}
