@@ -22,9 +22,9 @@ plate.validate('ΑΑΑ-1'); // false
 Please note that the validation is strict, for example it will not allow spaces. Use `clean()` to remove any whitespace from a number before validating it:
 
 ```js
-plate.validate('ΑΒΕ -1234 '); //false
+plate.validate('ΑΒΕ -1234 '); // false
 const cleaned = plate.clean('ΑΒΕ -1234 '); // 'ΑΒΕ-1234'
-plate.validate(cleaned); //true
+plate.validate(cleaned); // true
 ```
 
 ## License
