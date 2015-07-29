@@ -26,8 +26,8 @@ describe('Those plate numbers', function() {
   });
 });
 
-describe('Those plate numbers', function() {
-  it('should be valid', function() {
+describe('Those dirty plate numbers', function() {
+  it('should be cleaned', function() {
     expect(plate.clean(' ΑΒΕ - 12 34 ')).to.equal('ΑΒΕ-1234');
   });
 });
