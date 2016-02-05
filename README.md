@@ -1,4 +1,4 @@
-# greece-vehicle-plate [![Build Status](https://travis-ci.org/alefteris/greece-vehicle-plate.svg?branch=master)](https://travis-ci.org/alefteris/greece-vehicle-plate)
+# greece-vehicle-plate [![Build Status](https://travis-ci.org/greecejs/greece-vehicle-plate.svg?branch=master)](https://travis-ci.org/greecejs/greece-vehicle-plate)
 
 > Check that a vehicle registration plate number used in Greece is valid.
 

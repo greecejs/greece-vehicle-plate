@@ -8,7 +8,10 @@
     "lint": "eslint .",
     "ci": "npm run lint && npm test"
   },
-  "repository": "alefteris/greece-vehicle-plate",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greecejs/greece-vehicle-plate.git"
+  },
   "keywords": [
     "greece",
     "license",
@@ -22,6 +25,10 @@
   ],
   "author": "Thanos Lefteris <alefteris@gmail.com> (http://thanoslefteris.com/)",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greecejs/greece-vehicle-plate/issues"
+  },
+  "homepage": "https://github.com/greecejs/greece-vehicle-plate#readme",
   "devDependencies": {
     "chai": "3.2.0",
     "eslint": "0.24.1",
