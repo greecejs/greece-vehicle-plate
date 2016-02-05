@@ -1,10 +1,10 @@
 'use strict';
 
-const chai = require('chai');
+var chai = require('chai');
 
-const plate = require('../index');
+var plate = require('../index');
 
-const expect = chai.expect;
+var expect = chai.expect;
 
 describe('Those plate numbers', function() {
   it('should be valid', function() {
