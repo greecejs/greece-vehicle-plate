@@ -29,4 +29,4 @@ plate.validate(cleaned); // true
 
 ## License
 
-[MIT license](http://opensource.org/licenses/mit-license.php)
+[MIT](http://opensource.org/licenses/mit-license.php)
