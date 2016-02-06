@@ -1,4 +1,4 @@
-# greece-vehicle-plate [![Build Status](https://travis-ci.org/greecejs/greece-vehicle-plate.svg?branch=master)](https://travis-ci.org/greecejs/greece-vehicle-plate) [![Coverage Status](https://coveralls.io/repos/github/greecejs/greece-vehicle-plate/badge.svg?branch=master)](https://coveralls.io/github/greecejs/greece-vehicle-plate?branch=master)
+# greece-vehicle-plate [![Build Status](https://travis-ci.org/greecejs/greece-vehicle-plate.svg?branch=master)](https://travis-ci.org/greecejs/greece-vehicle-plate) [![Coverage Status](https://coveralls.io/repos/github/greecejs/greece-vehicle-plate/badge.svg?branch=master)](https://coveralls.io/github/greecejs/greece-vehicle-plate?branch=master) [![npm](https://img.shields.io/npm/v/greece-vehicle-plate.svg)](https://www.npmjs.com/package/greece-vehicle-plate)
 
 > Check that a vehicle registration plate number used in Greece is valid.
 
